@@ -2,7 +2,7 @@
 import 'package:flutter/material.dart';
 import 'package:news_app/widgets/category_list_view.dart';
 import 'package:news_app/widgets/news_list_view.dart';
-import 'package:news_app/widgets/newslistview_builder.dart';
+
 
 
 class Home_screen extends StatelessWidget {
